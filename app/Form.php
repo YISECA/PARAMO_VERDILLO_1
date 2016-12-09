@@ -18,7 +18,7 @@ class Form extends Model
 
 
 
-   protected $table = 'centro_historico_candelaria';
+   protected $table = 'paramo_verdillo_1';
 
 
 
